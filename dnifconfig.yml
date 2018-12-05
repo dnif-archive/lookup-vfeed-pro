@@ -1,0 +1,5 @@
+lookup_plugin:
+  VF_ACCESS_KEY: <Add_your_access_key_here>
+  VF_LAST_DB_UPDATE: 
+  VF_PLAN: <Add_your_plan_name_here>
+  VF_SECRET_KEY: <Add_your_secret_key_here>
