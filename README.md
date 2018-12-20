@@ -3,7 +3,7 @@
 
 ### Overview
 
-vFeed technology helps in validating network related data with known "Indicators Of Comprise"(IOCs). The required threat intel information is readily available within it's threat intelligence database and multi-formats feeds. vFeeds are focused 100% to empower customers technology, treat intelligence solutions, protect vulnerable and sensitive systems and enables it's clients to rapidly detect and react against cyber-attacks.
+vFeed technology helps in validating network related data with known **vulnerability** "Indicators Of Comprise"(IOCs). The required threat intel information is readily available within it's **vulnerability** and threat intelligence database and multi-formats feeds. vFeeds are focused 100% to empower customers technology, treat intelligence solutions, protect vulnerable and sensitive systems and enables it's clients to rapidly detect and react against cyber-attacks.
 
 vFeed worldwide client base comprises of a wide and diverse range of individuals and businesses from hackers, consultancy firms, CERTs and freelancers to  governmental organizations, software companies and intelligence providers.
 
